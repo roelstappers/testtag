@@ -1,0 +1,4 @@
+name = "testtag"
+uuid = "f00571ee-8617-4cae-aa8b-8ee8ce3aebfb"
+authors = ["Roel Stappers <roel.stappers@met.no>"]
+version = "0.1.0"
